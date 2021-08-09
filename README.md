@@ -18,3 +18,7 @@ npm start
 # Build app
 npm run build
 ```
+```
+# Run app
+npm start
+```
